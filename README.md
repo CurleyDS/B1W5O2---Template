@@ -1,3 +1,5 @@
+# Notice: Deze repository is van mijn vorige opleiding!
+
 # template
 
 ## Inleiding
